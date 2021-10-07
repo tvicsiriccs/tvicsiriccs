@@ -482,7 +482,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "(2019 augusztus - 2021 szeptember)");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "(2019. augusztus - 2021. szeptember)");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
