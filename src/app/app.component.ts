@@ -1,6 +1,7 @@
 import { Component, ViewChild, AfterViewInit } from '@angular/core';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
+import { Angulartics2GoogleGlobalSiteTag } from 'angulartics2/gst';
 import users from '../assets/payouts.json';
 
 @Component({
@@ -27,7 +28,8 @@ export class AppComponent implements AfterViewInit {
 
   @ViewChild(MatSort) sort: MatSort;
 
-  constructor() {
+  constructor(angulartics: Angulartics2GoogleGlobalSiteTag) {
+    angulartics.startTracking();
   }
 
   ngAfterViewInit() {
