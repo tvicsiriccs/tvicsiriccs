@@ -32000,6 +32000,22 @@
 		"avg" : 0.7023076923076924
 	},
 	{
+		"id" : 30628462,
+		"display_name" : "Varenb",
+		"ad_share_gross" : 0.5800000000000001,
+		"sub_share_gross" : 16.55,
+		"bits_share_gross" : 1.12,
+		"bits_developer_share_gross" : 0,
+		"bits_extension_share_gross" : 0,
+		"prime_sub_share_gross" : 0,
+		"bit_share_ad_gross" : 0,
+		"fuel_rev_gross" : 0,
+		"bb_rev_gross" : 0,
+		"experimental_rev_gross" : 0,
+		"sum" : 18.250000000000004,
+		"avg" : 0.7019230769230771
+	},
+	{
 		"id" : 401547812,
 		"display_name" : "AtttttisHUN",
 		"ad_share_gross" : 0.05,
