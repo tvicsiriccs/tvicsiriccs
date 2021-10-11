@@ -52,4 +52,5 @@ export interface User {
   experimental_rev_gross: number;
   sum: number;
   avg: number;
+  months: number;
 }

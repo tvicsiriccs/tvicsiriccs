@@ -5,6 +5,7 @@
       lassú lehet!</span></span>
   <p class="x">Minimális eltérés lehet más oldalak adataihoz képest, mivel ők a 2019. júliusi bevétel egy részét is
     hozzászámolták.</p>
+  <p class="y">A havi átlagnál zárójelben látható szám azt jelzi, hány hónapot volt affiliate/partner a streamer a 26 hónapos időszakból. A havi átlag ez alapján került kiszámításra.</p>
   <span class="d">Elérhetőség: <span>tvicsiriccs@protonmail.com</span></span>
 </div>
 
@@ -60,8 +61,8 @@
   </ng-container>
 
   <ng-container matColumnDef="avg">
-    <th mat-header-cell *matHeaderCellDef mat-sort-header> Havi átlag </th>
-    <td mat-cell *matCellDef="let element"> {{element.avg | currency }} </td>
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Havi átlag (hónapok száma)</th>
+    <td mat-cell *matCellDef="let element"> {{element.avg | currency }} ({{element.months}})</td>
   </ng-container>
 
   <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
