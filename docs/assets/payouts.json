@@ -1168,6 +1168,22 @@
 		"avg" : 280.61846153846153
 	},
 	{
+		"id" : 41729715,
+		"display_name" : "GoodBad93",
+		"ad_share_gross" : 188.54000000000002,
+		"sub_share_gross" : 3463.3499999999995,
+		"bits_share_gross" : 2445.5,
+		"bits_developer_share_gross" : 0,
+		"bits_extension_share_gross" : 0,
+		"prime_sub_share_gross" : 941.4600000000002,
+		"bit_share_ad_gross" : 0,
+		"fuel_rev_gross" : 0,
+		"bb_rev_gross" : 0,
+		"experimental_rev_gross" : 0,
+		"sum" : 7038.849999999999,
+		"avg" : 270.72499999999997
+	},
+	{
 		"id" : 264856572,
 		"display_name" : "kontroll_the_twitch",
 		"ad_share_gross" : 73.29,
