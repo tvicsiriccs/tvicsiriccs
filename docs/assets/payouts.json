@@ -15623,6 +15623,23 @@
 		"months" : 23
 	},
 	{
+		"id" : 127745110,
+		"display_name" : "Zoltanrf",
+		"ad_share_gross" : 0.78,
+		"sub_share_gross" : 118.09000000000002,
+		"bits_share_gross" : 28.57,
+		"bits_developer_share_gross" : 0,
+		"bits_extension_share_gross" : 0,
+		"prime_sub_share_gross" : 17.490000000000002,
+		"bit_share_ad_gross" : 0,
+		"fuel_rev_gross" : 0,
+		"bb_rev_gross" : 0,
+		"experimental_rev_gross" : 0,
+		"sum" : 164.93000000000004,
+		"avg" : 6.34346153846154,
+		"months" : 26
+	},
+	{
 		"id" : 89773489,
 		"display_name" : "zobaktron",
 		"ad_share_gross" : 0.51,
